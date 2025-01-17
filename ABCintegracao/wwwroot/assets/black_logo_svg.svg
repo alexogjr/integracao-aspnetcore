@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<title>base - black</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 75px;line-height: 75px;fill: #ffffff;font-weight: 400;font-family: "Unbounded-Regular", "Unbounded" } 
+		.t1 { font-size: 75px;fill: #ffffff;font-weight: 400;font-family: "Unbounded-Regular", "Unbounded" } 
+	</style>
+	<text id="ABCcloud" style="transform: matrix(1,0,0,1,34,284)" >
+		<tspan x="0" y="0" class="t0">A</tspan><tspan  y="0" class="t0">B</tspan><tspan  y="0" class="t0">C</tspan><tspan  y="0" class="t1">c</tspan><tspan  y="0" class="t1">l</tspan><tspan  y="0" class="t1">o</tspan><tspan  y="0" class="t1">u</tspan><tspan  y="0" class="t1">d</tspan><tspan  y="0" class="t1">
+</tspan>
+	</text>
+</svg>
